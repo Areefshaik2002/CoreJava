@@ -1,5 +1,6 @@
 package oops;
- class TextMessage {
+//Single inheritance - it contains only one super-class and one sub-class.
+class TextMessage {
 	public void message() {
 		System.out.println("text message");
 	}
@@ -17,3 +18,4 @@ public static void main(String[] args) {
 	}
 
 }
+//we create objects to only non-static methods
