@@ -1,6 +1,6 @@
 package oops;
 class A{
-	int i=200;
+	int i;
 	int j;
 	A(int i, int j){
 		this.i = i;
@@ -29,7 +29,6 @@ class B extends A{
 public class SuperKeyword {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		B obj = new B(15, 30);
 		obj.m1();
 		obj.Printmsg();
