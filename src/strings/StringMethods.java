@@ -2,7 +2,7 @@ package strings;
 
 public class StringMethods {
 public static void main(String[] args) {
-	String s1 = "AreefShaik";
+//	String s1 = "AreefShaik";
 //	System.out.println(s1.length());
 //	charAT method
 //	System.out.println(s1.charAt(0));
