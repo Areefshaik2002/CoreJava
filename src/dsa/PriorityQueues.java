@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.Queue;
 public class PriorityQueues {
-//Priority Queue - A FIFO datastructue that implements the elements with highest 
+//Priority Queue - A FIFO data structure that implements the elements with highest 
 //priority first and gradually the least priority for the last.
 public static void main(String[] args) {
 	Queue<String> queue = new PriorityQueue<>(Collections.reverseOrder());
