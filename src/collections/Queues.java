@@ -2,9 +2,9 @@ package collections;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.LinkedList;
-import java.util.PriorityQueue;
-import java.util.Queue;
+//import java.util.LinkedList;
+//import java.util.PriorityQueue;
+//import java.util.Queue;
 
 public class Queues {
 
@@ -39,7 +39,7 @@ public class Queues {
 		d.add("PHP");
 		d.addFirst("Ruby");
 		while(!d.isEmpty()) {
-			System.out.println(d.peek());
+			System.out.println(d.peek ());
 		}
 	}
 
